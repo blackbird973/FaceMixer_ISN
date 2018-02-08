@@ -11,3 +11,5 @@ The aim of this project was to obtain the average face of multipe face, for this
 - Find the file who show the average of all the faces in your root project folder.
 
 Here is what i've got from 9 different faces from people of my classroom.
+
+![result_facemix](https://user-images.githubusercontent.com/10677178/36001225-ebf150ec-0d25-11e8-99ca-49ae2c35d261.png)
