@@ -4,7 +4,7 @@ The aim of this project was to obtain the average face of multipe face, for this
 
 ## How to use 
 
-- Get your multiples faces photos, and link them in the facemix.py file.
+- Put your multiples faces photos, and link them in the facemix.py file.
 
 - Run the program
 
