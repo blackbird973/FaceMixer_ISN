@@ -1,10 +1,10 @@
 # FaceMixer_ISN
 
-The aim of this project was to obtain the average face of multipe face, for this project i used python and the PIL library.
+The aim of this project was to get the average face picture from multipe face pictures, for this project i used python and the PIL library.
 
 ## How to use 
 
-- Put your multiples faces photos, and link them in the facemix.py file.
+- Put your multiples faces photos, and add them in the facemix.py file.
 
 - Run the program
 
